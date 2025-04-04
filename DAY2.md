@@ -1,4 +1,4 @@
-Git Workflow Without Branching
+# Git Workflow Without Branching
 
 
 
@@ -6,7 +6,7 @@ This document outlines a straightforward Git workflow without branching, detaili
 
 
 
-Step 1: Git Workflow Without Branching
+# Step 1: Git Workflow Without Branching
 
 
 
@@ -14,7 +14,7 @@ In a Git workflow without branching, developers work directly on the main branch
 
 
 
-Step 2: Create a GitHub Repository and Connect to Git
+# Step 2: Create a GitHub Repository and Connect to Git
 
 
 
@@ -75,7 +75,7 @@ Replace username and repository with your GitHub username and the name of your r
 
 
 
-Step 3: Essential Git Commands
+# Step 3: Essential Git Commands
 
 
 
@@ -139,7 +139,7 @@ git push origin main
 
 
 
-Step 4: Usefulness for DevOps Engineers
+# Step 4: Usefulness for DevOps Engineers
 
 
 
