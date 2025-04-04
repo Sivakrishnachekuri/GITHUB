@@ -2,7 +2,7 @@
 
 
 
-This document outlines a straightforward Git workflow without branching, detailing the steps to create a repository on GitHub, connect it to your local Git, and explain essential Git commands such as git add, git status, git log, git commit, and git push. Additionally, it discusses the usefulness of this workflow for DevOps engineers.
+This document outlines a straightforward Git workflow without branching, detailing the steps to create a repository on GitHub, connect it to your local Git, and explain essential Git commands such as git add, git status, git log, git commit, and git push. Additionally, it discusses the usefull of this workflow for DevOps engineers.
 
 
 
@@ -139,7 +139,7 @@ git push origin main
 
 
 
-# Step 4: how it os use for DevOps Engineers
+# Step 4: how it is use for DevOps Engineers
 
 
 
