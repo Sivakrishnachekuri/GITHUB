@@ -34,20 +34,20 @@ Once you're happy with your work, you can **merge** the branch back into `main`.
     git branch
 
 # Create a new branch
-  git branch branch name
+  git branch <branch name>
 
 # Switch to the new branch
-git checkout branch name
+git checkout  <branch name >
 
 # OR create and switch at the same time
-git checkout -b branch name
+git checkout -b <branch name>
 
 # Merge your branch back into main
-git checkout main
-git merge branch name
+    1 git checkout main
+    2 git merge branch name
 
 # Delete a branch (after merge)
-git branch -d branch name
+git branch -d < branch name>
 
 # to view all reposotiries in local and remote
   git branch -a
@@ -58,14 +58,6 @@ git branch -d branch name
 # to delete the remote branches from local
   git push < alias name > :branch name 
 
-## 🧩 Tips for Beginners
-
-- **Name your branches clearly** — like `feature/signup`, `bugfix/nav-bar`
-- **Work in small chunks** — one branch per task
-- **Pull the latest main before merging**
-- **Use `git status` often** — it tells you what’s going on
-
----
 
 ## 🔚 Summary
 
@@ -149,7 +141,7 @@ When you open the file with a conflict, Git shows this:
 | Finish merge        | `git commit`                         |
 
 
-# just follow the table guys 
+# you are feel hard to remember .... just follow the table guys 
 
 | **Command**                              | **Description**                                            |
 |------------------------------------------|------------------------------------------------------------|
