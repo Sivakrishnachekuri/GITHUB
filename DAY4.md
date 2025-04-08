@@ -34,13 +34,13 @@ Once you're happy with your work, you can **merge** the branch back into `main`.
     git branch
 
 # Create a new branch
-  git branch <branch name>
+  git branch < branch name>
 
 # Switch to the new branch
-git checkout  <branch name >
+git checkout  < branch name >
 
 # OR create and switch at the same time
-git checkout -b <branch name>
+git checkout -b < branch name>
 
 # Merge your branch back into main
     1 git checkout main
@@ -141,7 +141,7 @@ When you open the file with a conflict, Git shows this:
 | Finish merge        | `git commit`                         |
 
 
-# you are feel hard to remember .... just follow the table guys 
+# are you feel hard to remember .... just follow the table guys 
 
 | **Command**                              | **Description**                                            |
 |------------------------------------------|------------------------------------------------------------|
