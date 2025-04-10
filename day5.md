@@ -54,11 +54,7 @@ then come back, unroll your artwork, and continue.
 
 Helps undo changes in your working directory before commit.
 
-✨ Commands
 
-bash
-Copy
-Edit
 git restore filename        # Discard changes in a specific file
 git restore .               # Discard changes in all files
 git restore --staged file   # Unstage a file (move from index back to working area)
