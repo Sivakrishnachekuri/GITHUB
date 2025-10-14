@@ -9,7 +9,7 @@ This guide will walk you through the steps to set up a GitHub account, create an
 4. [Step 4: Create Public & Private Repositories](#step-4-create-public--private-repositories)
 5. [Step 5: Change Repository Visibility](#step-5-change-repository-visibility)
 6. [Step 6: Delete Step-by-Step](#step-6-delete-step-by-step)
-7. [Why Git & GitHub Matter](#why-git--github-matter)
+7. [Why Git & GitHub Matter](#why-git--github-matter)  
 
 ---
 
